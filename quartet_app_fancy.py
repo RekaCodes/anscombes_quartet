@@ -1,5 +1,3 @@
-from turtle import fillcolor
-from unicodedata import name
 import streamlit as st
 st.set_page_config(layout='wide')
 
